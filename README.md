@@ -60,7 +60,7 @@ Here are some of the key technologies and skills I've been working with:
 ---
 
 ### 🚀 My Featured Projects
-Here are a few projects I'm proud of. You can find more on my [portfolio website]([https://dylanwalsh-ie.github.io/]))!
+Here are a few projects I'm proud of. You can find more on my [portfolio website](https://dylanwalsh-ie.github.io/)!
 
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
