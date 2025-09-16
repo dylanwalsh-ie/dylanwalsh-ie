@@ -4,7 +4,7 @@
   <h3>IT Support Specialist | Cybersecurity Enthusiast | Data Science Graduate</h3>
 
   <p>
-    <a href="[https://dylanwalsh.ie](https://dylanwalsh-ie.github.io/)" target="_blank">
+    <a href="https://dylanwalsh-ie.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-dylanwalsh.ie-blue?style=for-the-badge&logo=icloud" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/dylanwalshire23/" target="_blank">
@@ -60,7 +60,7 @@ Here are some of the key technologies and skills I've been working with:
 ---
 
 ### 🚀 My Featured Projects
-Here are a few projects I'm proud of. You can find more on my [portfolio website]([https://dylanwalsh.ie](https://dylanwalsh-ie.github.io/))!
+Here are a few projects I'm proud of. You can find more on my [portfolio website]([https://dylanwalsh-ie.github.io/]))!
 
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
