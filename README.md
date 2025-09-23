@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/dylanwalsh-ie/dylanwalsh-ie/raw/main/dylanWalsh_banner.png" alt="Dylan Walsh Profile Banner">
 <h1>Hi there, I'm Dylan Walsh 👋</h1>
 <h3>IT Support Specialist | Cybersecurity Enthusiast | Data Science Graduate</h3>
 
