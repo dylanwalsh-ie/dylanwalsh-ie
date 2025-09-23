@@ -15,7 +15,7 @@
 </p>
 </div>
 
-👨‍💻 About Me
+👨‍💻 About Me<br>
 I am a dedicated and newly CompTIA A+ certified IT Support Specialist with a passion for technology, recently graduating from an intensive I.T. Support bootcamp. My professional background in database management and academic administration has given me a unique analytical approach, allowing me to focus on clear communication, fast triage, and creating simple automations to save time for users and teams.
 
 
@@ -26,7 +26,7 @@ After completing the Generation IT Support with Cybersecurity bootcamp, I sharpe
 
 
 
-🛠️ My Tech Stack & Skills
+🛠️ My Tech Stack & Skills<br>
 Here are some of the key technologies and skills I've been working with:
 
 <p align="center">
