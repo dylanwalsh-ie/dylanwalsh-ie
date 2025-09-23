@@ -59,13 +59,16 @@ Here are some of the key technologies and skills I've been working with:
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-🚀 My Featured Projects
-Here are a few projects I'm proud of. You can find more on my portfolio website!
+### 🚀 My Featured Projects
+Here are a few projects I'm proud of. You can find more on my [portfolio website](https://dylanwalsh-ie.github.io/)!
 
-Project Name	Description	Technologies Used
-Home Network Simulator	A concept design tool to visualise potential home network setups, test configurations, and simulate network performance.	UI/UX Design Concept
-Phishing Awareness Simulator	An interactive simulation of a phishing attempt to educate users on identifying 'red flags' and social engineering tactics.	React TypeScript State Management
-Helpdesk Ticket Simulator	An interactive simulation to submit, view, and resolve tickets, including a searchable knowledge base created during my bootcamp.	Frontend Logic UI/UX
-CX De-escalation Simulator	A training tool to navigate difficult customer conversations and see the real-time impact of de-escalation choices.	Interactive Simulation UI/UX
-Cloud CSV Query Engine	A serverless BI tool to run multi-table SQL queries on cloud-hosted CSV files and visualise results with interactive charts.	SQL Google Sheets API Data Visualisation
-IT Operations Improvement Proposal	A group project from my bootcamp detailing improvements for a company's IT operations, security, and networking.	ITIL Security Best Practices Documentation
+| Project Name | Description | Technologies Used |
+| :--- | :--- | :--- |
+| **Home Network Simulator** | A concept design tool to visualise potential home network setups, test configurations, and simulate network performance. | `UI/UX Design` `Concept` |
+| **Phishing Awareness Simulator** | An interactive simulation of a phishing attempt to educate users on identifying 'red flags' and social engineering tactics. | `React` `TypeScript` `State Management` |
+| **Helpdesk Ticket Simulator** | An interactive simulation to submit, view, and resolve tickets, including a searchable knowledge base created during my bootcamp. | `Frontend Logic` `UI/UX` |
+| **CX De-escalation Simulator** | A training tool to navigate difficult customer conversations and see the real-time impact of de-escalation choices. | `Interactive Simulation` `UI/UX`|
+| **Cloud CSV Query Engine**| A serverless BI tool to run multi-table SQL queries on cloud-hosted CSV files and visualise results with interactive charts. | `SQL` `Google Sheets API` `Data Visualisation` |
+| **IT Operations Improvement Proposal**| A group project from my bootcamp detailing improvements for a company's IT operations, security, and networking. | `ITIL` `Security Best Practices` `Documentation`|
+
+---
