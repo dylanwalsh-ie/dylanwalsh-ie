@@ -32,9 +32,9 @@ Here are some of the key technologies and skills I've been working with:
 
 <p align="center">
 <strong>IT Support & Service Management:</strong><br>
-<img src="https://img.shields.io/badge/Spiceworks-Orange?style=for-the-badge&logo=spiceworks&logoColor=white" alt="Spiceworks">
-<img src="https://img.shields.io/badge/Incident_Logging-blue?style=for-the-badge" alt="Logging">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/User_Issue_Resolution-blue%3Fstyle%3Dfor-the-badge" alt="User Support">
+  <img src="https://img.shields.io/badge/Spiceworks-Orange?style=for-the-badge&logo=spiceworks&logoColor=white" alt="Spiceworks">
+  <img src="https://img.shields.io/badge/Incident_Logging-blue?style=for-the-badge" alt="Logging">
+  <img src="https://img.shields.io/badge/User_Issue_Resolution-blue?style=for-the-badge" alt="User Support">
 <br><br>
 <strong>Operating Systems:</strong><br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
