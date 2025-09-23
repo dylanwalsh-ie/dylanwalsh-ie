@@ -43,12 +43,12 @@ Here are some of the key technologies and skills I've been working with:
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
 <br><br>
 <strong>Helpdesk, Virtualisation & Other Tools:</strong><br>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_365-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-365%26logoColor%3Dwhite" alt="Microsoft 365"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TeamViewer-0E83C8%3Fstyle%3Dfor-the-badge%26logo%3Dteamviewer%26logoColor%3Dwhite" alt="TeamViewer"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VirtualBox-22668E%3Fstyle%3Dfor-the-badge%26logo%3Dvirtualbox%26logoColor%3Dwhite" alt="VirtualBox"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VMware-6C757D%3Fstyle%3Dfor-the-badge%26logo%3Dvmware%26logoColor%3Dwhite" alt="VMware"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white" alt="Microsoft 365"/>
+  <img src="https://img.shields.io/badge/TeamViewer-0E83C8?style=for-the-badge&logo=teamviewer&logoColor=white" alt="TeamViewer"/>
+  <img src="https://img.shields.io/badge/VirtualBox-22668E?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/VMware-6C757D?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 <br><br>
 <strong>Scripting, Automation & Databases:</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
